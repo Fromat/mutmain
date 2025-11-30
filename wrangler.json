@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "mutmain",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "09722850-c89c-47aa-8587-492ccdb60df8",
+      "database_name": "mutmain_db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
